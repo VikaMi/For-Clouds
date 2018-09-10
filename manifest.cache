@@ -1,0 +1,23 @@
+CACHE MANIFEST
+
+
+CACHE:
+index.html
+admin.html
+contacts.html
+index.html
+news.html
+rewievs.html
+css/style.css
+css\bootstrap.css
+
+img/p2.png
+img/p3.png
+
+
+
+js/bootstrap.min.js
+js/jquery.min.js
+
+FALLBACK:
+error.html
